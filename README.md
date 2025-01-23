@@ -25,7 +25,6 @@ This project showcases a responsive 3-column preview card component built using 
 |-- /images       # Icons and other assets
 ```
 
-## Screenshots
 ### Desktop View
 Displays all three columns side-by-side with distinct themes for each section.
 
